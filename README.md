@@ -2,6 +2,7 @@
 
 A modern trading platform with a high-performance matching engine built in Go and a React frontend.
 
+Live: https://nexus-trading-app.vercel.app/
 ## Features
 
 ### Core Trading Engine
